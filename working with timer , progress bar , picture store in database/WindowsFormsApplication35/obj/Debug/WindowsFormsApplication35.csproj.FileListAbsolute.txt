@@ -1,0 +1,9 @@
+c:\users\tayyab\documents\visual studio 2013\Projects\WindowsFormsApplication35\WindowsFormsApplication35\bin\Debug\WindowsFormsApplication35.exe.config
+c:\users\tayyab\documents\visual studio 2013\Projects\WindowsFormsApplication35\WindowsFormsApplication35\bin\Debug\WindowsFormsApplication35.exe
+c:\users\tayyab\documents\visual studio 2013\Projects\WindowsFormsApplication35\WindowsFormsApplication35\bin\Debug\WindowsFormsApplication35.pdb
+c:\users\tayyab\documents\visual studio 2013\Projects\WindowsFormsApplication35\WindowsFormsApplication35\obj\Debug\WindowsFormsApplication35.csprojResolveAssemblyReference.cache
+c:\users\tayyab\documents\visual studio 2013\Projects\WindowsFormsApplication35\WindowsFormsApplication35\obj\Debug\WindowsFormsApplication35.Form1.resources
+c:\users\tayyab\documents\visual studio 2013\Projects\WindowsFormsApplication35\WindowsFormsApplication35\obj\Debug\WindowsFormsApplication35.Properties.Resources.resources
+c:\users\tayyab\documents\visual studio 2013\Projects\WindowsFormsApplication35\WindowsFormsApplication35\obj\Debug\WindowsFormsApplication35.csproj.GenerateResource.Cache
+c:\users\tayyab\documents\visual studio 2013\Projects\WindowsFormsApplication35\WindowsFormsApplication35\obj\Debug\WindowsFormsApplication35.exe
+c:\users\tayyab\documents\visual studio 2013\Projects\WindowsFormsApplication35\WindowsFormsApplication35\obj\Debug\WindowsFormsApplication35.pdb
